@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Nós:
 Assim como as placas de circuito desempenhando a função chave na integração e comunicação entre as partes, nós da STS, vamos ser a ponte que leva simplicidade e inovação para quem mais precisa. Inovando na área da tecnologia, a nossa missão é construir um mundo onde sonhos possam se realizar, onde a complexidade dê espaço para a simplicidade. A Silva Tech Souza é formada por pessoas empenhadas em mudar o mundo ao seu redor, por aqueles que sonham grande e que não desistem.<br><br>
 
 
@@ -17,9 +17,6 @@ Assim como as placas de circuito desempenhando a função chave na integração 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Silva-Tech-Souza&icon=7&color=1)](https://visitcount.itsvg.in)
